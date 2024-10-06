@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A junior Ruby on Rails developer</h3>
+<h3 align="center">AI automations enthusiast</h3>
 
-- 👩🏻‍💻 My final bootcamp project [MidPoint](https://www.midpoint.world/)
-
-- 🌱 I’m currently working **to improve my Ruby on Rails, CSS and JavaScript skills**
+- 👩🏻‍💻 Check out what I've been up to here: [fomaxxie.site](https://www.fomaxxie.site/)
 
 - 📫 How to reach me **fomaxxi@gmail.com**
 
